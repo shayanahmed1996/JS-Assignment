@@ -268,8 +268,3 @@
 //   console.log("5 x 10 =", 5 * 10);
 // }
 
-
-
-var a = 5;
-a + 5;
-alert(a);
